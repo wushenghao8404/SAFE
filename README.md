@@ -1,5 +1,5 @@
-**Scale-Adaptive Fitness Evaluation for CVRP-OC**
-This repository contains an unofficial implementation of the Scale-Adaptive Fitness Evaluation (SAFE) method tailored for the Capacitated Vehicle Routing Problem with Occasional Couriers (CVRP-OC). This method addresses a complex variant of the classic CVRP and has been discussed in detail in the IEEE Transactions on Evolutionary Computation.
+# Scale-Adaptive Fitness Evaluation (SAFE)
+This repository contains an unofficial implementation of the SAFE method tailored for the Capacitated Vehicle Routing Problem with Occasional Couriers (CVRP-OC). This method addresses a complex variant of the classic CVRP and has been discussed in detail in the IEEE Transactions on Evolutionary Computation.
 
 The original implementation presented unique challenges due to its unconventional coding style, which affected code readability and maintainability. We have dedicated significant effort to refactor the codebase, aiming to enhance clarity and understanding for potential users.
 
